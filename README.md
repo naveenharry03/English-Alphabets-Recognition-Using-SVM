@@ -1,1 +1,3 @@
 # English-Alphabets-Recognition-Using-SVM
+
+This project addresses the multiclass classification problem of letter recognition with Support Vector Machines (SVM).This multiclass classification task involves recognizing the 26 English alphabets. The dataset comprises handwritten alphabet images that are pixelated into m x n pixels, with pixel values denoting ink density. Each image yields 16 features, including box width and variance-related metrics. Notably, the pixel distribution can vary for the same alphabet. The goal is to leverage SVMs to accurately classify these images into their respective alphabet classes, demonstrating the model's efficacy in handling complex pattern recognition tasks.
